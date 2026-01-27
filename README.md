@@ -1,71 +1,63 @@
-# 👋 Hi, I’m İrem Sevim (@iremmsvm)
+👋 Hi, I’m İrem Sevim (@iremmsvm)
 
-**Full Stack Developer** with 3+ years of experience building **business-focused and CRM systems**, as well as modern **iOS and web applications**.
+I am a **Full Stack Developer with a strong backend focus**, experienced in building
+business-driven web applications, CRM systems, and scalable backend architectures.
 
-I enjoy transforming complex requirements into clean, scalable, and user-friendly solutions.
+I enjoy transforming complex business requirements into **clean, maintainable, and scalable solutions** with a strong emphasis on backend logic and data integrity.
 
 ---
 
 ## 🧑‍💻 Professional Summary
-
-- 💼 **4+ years of hands-on coding experience**
-- 🧩 Specialized in **Full Stack Development**
-- 🏢 Experience developing **CRM and enterprise systems**
-- 📱 Building iOS apps using **SwiftUI**
-- 🌐 Developing web applications with **Angular & Node.js**
+- 💼 3+ years of hands-on software development experience
+- 🧩 Full Stack Developer with **backend-oriented mindset**
+- 🏢 Experience building **CRM and enterprise systems**
+- ⚙️ Focused on **business logic, REST APIs, and scalable systems**
+- 🌱 Actively improving my skills in backend & fintech-oriented architectures
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- Angular
-- SwiftUI
+### Backend
+- **PHP (OOP)**  
+- Laravel (MVC, REST APIs, database-driven systems)  
+- Node.js  
 
-**Backend**
-- Node.js
-- PHP
+### Frontend
+- JavaScript, TypeScript  
+- Angular  
+- HTML, CSS  
 
-**Languages**
-- TypeScript
-- JavaScript
-- Swift
+### Databases
+- MySQL, SQL  
+- MongoDB  
 
-**Architecture & Concepts**
-- Full Stack Development
-- MVVM
-- RESTful APIs
-- Modular & scalable systems
+### Architecture & Concepts
+- MVC Architecture  
+- RESTful APIs  
+- Modular & Scalable Systems  
+- Clean Code Principles  
 
 ---
 
 ## 🚀 What I Work On
-
-- CRM and business management systems  
-- Full stack web applications  
-- iOS apps with modern SwiftUI architecture  
-- Clean UI/UX with maintainable codebases  
+- Backend-heavy **business and CRM systems**
+- REST API development and integration
+- Database-driven web applications
+- E-commerce & transaction-based platforms
+- Clean, maintainable, and testable codebases
 
 ---
 
 ## 🤝 Collaboration & Growth
-
-- Open to collaborating on meaningful projects
-- Actively learning and improving my skills
-- Enjoy working in team-oriented, growth-focused environments
-
----
-
-## 📫 Contact
-
-📧 **nesibeiremsevim@gmail.com**  
-😄 Pronouns: **she/her**
+- Open to collaborating on meaningful and impact-driven projects
+- Comfortable working in **Agile / team-oriented environments**
+- Strong problem-solving mindset and continuous learner
 
 ---
 
-⚡ *Fun fact:* Coding has been a part of my life for over **3 years**, and I still enjoy learning something new every day.
+📫 **Contact:** nesibeiremsevim@gmail.com  
+😄 **Pronouns:** she/her  
 
-<!---
-iremmsvm/iremmsvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ *Fun fact:* Coding has been part of my life for years, and I genuinely enjoy learning something new every day.
+
